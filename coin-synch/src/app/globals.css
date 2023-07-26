@@ -1,5 +1,7 @@
 :root {
   --max-width: 1100px;
+  --bg-primary-color: #4D4D4D1A;
+  --button--primary: #FBAB34;
 }
 
 * {
@@ -13,4 +15,3 @@ body {
   max-width: 100vw;
   overflow-x: hidden;
 }
-
